@@ -12,3 +12,5 @@ public:
     std::list<int> bisiestos_entre(int desde, int hasta);
 };
 #endif //BISIESTOS_H
+
+/* Version solucionada para el algoritmo que detecta y busca años bisiestos */
